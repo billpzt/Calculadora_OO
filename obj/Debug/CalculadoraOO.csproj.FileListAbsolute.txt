@@ -1,0 +1,8 @@
+C:\Users\billp\source\repos\CalculadoraOO\obj\Debug\CalculadoraOO.csproj.AssemblyReference.cache
+C:\Users\billp\source\repos\CalculadoraOO\obj\Debug\CalculadoraOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\billp\source\repos\CalculadoraOO\obj\Debug\CalculadoraOO.csproj.CoreCompileInputs.cache
+C:\Users\billp\source\repos\CalculadoraOO\bin\Debug\CalculadoraOO.exe.config
+C:\Users\billp\source\repos\CalculadoraOO\bin\Debug\CalculadoraOO.exe
+C:\Users\billp\source\repos\CalculadoraOO\bin\Debug\CalculadoraOO.pdb
+C:\Users\billp\source\repos\CalculadoraOO\obj\Debug\CalculadoraOO.exe
+C:\Users\billp\source\repos\CalculadoraOO\obj\Debug\CalculadoraOO.pdb
